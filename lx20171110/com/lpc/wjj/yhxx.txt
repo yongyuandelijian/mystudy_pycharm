@@ -1,0 +1,1 @@
+[{"name": "xiaoming", "password": "xiaoming", "ye": 500, "jb": "1", "zt": "1"}, {"name": "xiaoding", "password": "12", "ye": 300, "jb": "2", "zt": "1"}, {"name": "xiaobai", "password": "1", "ye": 100, "jb": "3", "zt": "1"}, {"name": "xiaoding", "password": "12", "ye": 500, "jb": "2", "zt": "1"}]

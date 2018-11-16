@@ -1,0 +1,12 @@
+[log]
+log_all = all.log
+log_error=error.log
+
+[db]
+gwqdpath = gwqd.txt
+yhxxpath = yhxx.txt
+spxxpath = spxx.txt
+spflpath = spfl.txt
+yhjbpath = yhjb.txt
+ztpath = zt.txt
+dqpath = dqlb.txt
