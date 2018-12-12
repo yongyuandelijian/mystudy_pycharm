@@ -1,2 +1,0 @@
-class GetData(object):
-    headers={};
