@@ -8,7 +8,7 @@ today=time.strftime("%Y-%m-%d %H:%M:%S")
 
 
 def getSystemStatus():
-    result = {}s
+    result = {}
     # cpu 信息
     hxs=psutil.cpu_count(logical=False)  # 不带参数为逻辑核心个数(也就是线程数)，带参数为物理核心个数
     xcs=psutil.cpu_count()  # 发现在开机时间长了之后物理核心的获取数会混乱错误，所以这个方法还是慎用，但是逻辑核心数准确
@@ -115,3 +115,4 @@ def main():
 
 if __name__ == '__main__':
     main();
+    # print("aaa bbb".title())  # 作用是将每个单词的首字符大写  Aaa Bbb
