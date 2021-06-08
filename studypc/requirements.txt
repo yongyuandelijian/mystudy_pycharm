@@ -9,7 +9,7 @@ idna==2.6
 keyring==12.2.1
 keyrings.alt==3.0
 pexpect==4.2.1
-Pillow==5.1.0
+Pillow==8.2.0
 psutil==5.4.7
 pycairo==1.16.2
 pycrypto==2.6.1
